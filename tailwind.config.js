@@ -42,7 +42,4 @@ export default {
     },
   },
   plugins: [],
-  corePlugins: {
-    container: false,
-  },
 };
